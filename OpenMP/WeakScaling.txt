@@ -1,0 +1,130 @@
+--- Weak scaling efficiency test (N) --- 
+
+
+Using 1 OpenMP thread(s):
+
+Input layer nodes: 2000
+Number of layers: 500
+
+Execution time: 0.031541 seconds	Execution time: 0.249346 seconds
+Execution time: 0.029859 seconds	Execution time: 0.256505 seconds
+Execution time: 0.032205 seconds	Execution time: 0.271538 seconds
+Execution time: 0.029806 seconds	Execution time: 0.266407 seconds
+Execution time: 0.034553 seconds	Execution time: 0.254333 seconds
+Execution time: 0.033255 seconds	Execution time: 0.253108 seconds
+Execution time: 0.030379 seconds	Execution time: 0.248733 seconds
+Execution time: 0.033678 seconds	Execution time: 0.249089 seconds
+Execution time: 0.035367 seconds	Execution time: 0.245818 seconds
+Execution time: 0.030445 seconds	Execution time: 0.247821 seconds
+
+Using 2 OpenMP thread(s):
+
+Input layer nodes: 3500
+Number of layers: 500
+
+Execution time: 0.045981 seconds	Execution time: 1.183395 seconds
+Execution time: 0.046265 seconds	Execution time: 1.233748 seconds
+Execution time: 0.046012 seconds	Execution time: 1.254600 seconds
+Execution time: 0.045804 seconds	Execution time: 1.228750 seconds
+Execution time: 0.046129 seconds	Execution time: 1.241073 seconds
+Execution time: 0.046273 seconds	Execution time: 1.241687 seconds
+Execution time: 0.049331 seconds	Execution time: 1.576237 seconds
+Execution time: 0.048666 seconds	Execution time: 1.355330 seconds
+Execution time: 0.045946 seconds	Execution time: 1.319185 seconds
+Execution time: 0.046963 seconds	Execution time: 1.319910 seconds
+
+Using 3 OpenMP thread(s):
+
+Input layer nodes: 5000
+Number of layers: 500
+
+Execution time: 0.062318 seconds	Execution time: 2.378418 seconds
+Execution time: 0.055948 seconds	Execution time: 2.186550 seconds
+Execution time: 0.062647 seconds	Execution time: 2.424995 seconds
+Execution time: 0.056853 seconds	Execution time: 2.146025 seconds
+Execution time: 0.055746 seconds	Execution time: 2.417953 seconds
+Execution time: 0.055891 seconds	Execution time: 2.218919 seconds
+Execution time: 0.056094 seconds	Execution time: 2.211930 seconds
+Execution time: 0.056111 seconds	Execution time: 2.155530 seconds
+Execution time: 0.056708 seconds	Execution time: 2.279728 seconds
+Execution time: 0.056352 seconds	Execution time: 2.298497 seconds
+
+Using 4 OpenMP thread(s):
+
+Input layer nodes: 6500
+Number of layers: 500
+
+Execution time: 0.063800 seconds	Execution time: 4.113255 seconds
+Execution time: 0.065864 seconds	Execution time: 4.035981 seconds
+Execution time: 0.066565 seconds	Execution time: 4.099348 seconds
+Execution time: 0.063893 seconds	Execution time: 4.102590 seconds
+Execution time: 0.065615 seconds	Execution time: 3.833763 seconds
+Execution time: 0.063852 seconds	Execution time: 3.884969 seconds
+Execution time: 0.063864 seconds	Execution time: 4.124051 seconds
+Execution time: 0.064425 seconds	Execution time: 4.191838 seconds
+Execution time: 0.064465 seconds	Execution time: 3.915400 seconds
+Execution time: 0.064556 seconds	Execution time: 4.102262 seconds
+
+Using 5 OpenMP thread(s):
+
+Input layer nodes: 8000
+Number of layers: 500
+
+Execution time: 0.098760 seconds	Execution time: 5.634527 seconds
+Execution time: 0.100429 seconds	Execution time: 5.563989 seconds
+Execution time: 0.098124 seconds	Execution time: 5.581527 seconds
+Execution time: 0.098700 seconds	Execution time: 5.405102 seconds
+Execution time: 0.098456 seconds	Execution time: 5.847905 seconds
+Execution time: 0.098247 seconds	Execution time: 5.680972 seconds
+Execution time: 0.097880 seconds	Execution time: 5.536909 seconds
+Execution time: 0.101164 seconds	Execution time: 5.463131 seconds
+Execution time: 0.098538 seconds	Execution time: 4.895245 seconds
+Execution time: 0.098576 seconds	Execution time: 5.901628 seconds
+
+Using 6 OpenMP thread(s):
+
+Input layer nodes: 9500
+Number of layers: 500
+
+Execution time: 0.114428 seconds	Execution time: 7.535759 seconds
+Execution time: 0.117415 seconds	Execution time: 7.333715 seconds
+Execution time: 0.114780 seconds	Execution time: 7.940511 seconds
+Execution time: 0.113198 seconds	Execution time: 7.818134 seconds
+Execution time: 0.108302 seconds	Execution time: 7.588112 seconds
+Execution time: 0.114582 seconds	Execution time: 7.724040 seconds
+Execution time: 0.107485 seconds	Execution time: 7.844039 seconds
+Execution time: 0.114031 seconds	Execution time: 7.721847 seconds
+Execution time: 0.108347 seconds	Execution time: 7.778850 seconds
+Execution time: 0.114535 seconds	Execution time: 7.895627 seconds
+
+Using 7 OpenMP thread(s):
+
+Input layer nodes: 11000
+Number of layers: 500
+
+Execution time: 0.112270 seconds	Execution time: 9.129284 seconds
+Execution time: 0.124929 seconds	Execution time: 9.366866 seconds
+Execution time: 0.130239 seconds	Execution time: 9.856840 seconds
+Execution time: 0.115084 seconds	Execution time: 10.024333 seconds
+Execution time: 0.113460 seconds	Execution time: 9.242670 seconds
+Execution time: 0.114104 seconds	Execution time: 9.595427 seconds
+Execution time: 0.112511 seconds	Execution time: 9.599228 seconds
+Execution time: 0.120142 seconds	Execution time: 9.583068 seconds
+Execution time: 0.112594 seconds	Execution time: 9.688974 seconds
+Execution time: 0.112473 seconds	Execution time: 9.486487 seconds
+
+Using 8 OpenMP thread(s):
+
+Input layer nodes: 12500
+Number of layers: 500
+
+Execution time: 0.117033 seconds	Execution time: 11.225212 seconds
+Execution time: 0.117315 seconds	Execution time: 11.234886 seconds
+Execution time: 0.117694 seconds	Execution time: 11.807324 seconds
+Execution time: 0.133514 seconds	Execution time: 13.689338 seconds
+Execution time: 0.367903 seconds	Execution time: 10.728308 seconds
+Execution time: 0.117243 seconds	Execution time: 11.643541 seconds
+Execution time: 0.116912 seconds	Execution time: 10.977556 seconds
+Execution time: 0.117070 seconds	Execution time: 11.610243 seconds
+Execution time: 0.116535 seconds	Execution time: 11.504438 seconds
+Execution time: 0.118039 seconds	Execution time: 12.131042 seconds

@@ -1,0 +1,106 @@
+--- Strong scaling efficiency test --- 
+
+
+Using 1 OpenMP thread(s):
+
+Execution time: 0.029770 seconds	Execution time: 0.245681 seconds
+Execution time: 0.029756 seconds	Execution time: 0.245626 seconds
+Execution time: 0.029754 seconds	Execution time: 0.246267 seconds
+Execution time: 0.029671 seconds	Execution time: 0.247557 seconds
+Execution time: 0.029773 seconds	Execution time: 0.247326 seconds
+Execution time: 0.029693 seconds	Execution time: 0.246685 seconds
+Execution time: 0.029723 seconds	Execution time: 0.249847 seconds
+Execution time: 0.029841 seconds	Execution time: 0.248648 seconds
+Execution time: 0.029719 seconds	Execution time: 0.267804 seconds
+Execution time: 0.029943 seconds	Execution time: 0.250160 seconds
+
+Using 2 OpenMP thread(s):
+
+Execution time: 0.015802 seconds	Execution time: 0.454862 seconds
+Execution time: 0.015407 seconds	Execution time: 0.449568 seconds
+Execution time: 0.015713 seconds	Execution time: 0.458110 seconds
+Execution time: 0.015727 seconds	Execution time: 0.442968 seconds
+Execution time: 0.015611 seconds	Execution time: 0.451398 seconds
+Execution time: 0.016774 seconds	Execution time: 0.452661 seconds
+Execution time: 0.015987 seconds	Execution time: 0.455905 seconds
+Execution time: 0.015547 seconds	Execution time: 0.442192 seconds
+Execution time: 0.015596 seconds	Execution time: 0.449611 seconds
+Execution time: 0.015564 seconds	Execution time: 0.445928 seconds
+
+Using 3 OpenMP thread(s):
+
+Execution time: 0.011441 seconds	Execution time: 0.473143 seconds
+Execution time: 0.011391 seconds	Execution time: 0.473491 seconds
+Execution time: 0.011423 seconds	Execution time: 0.494223 seconds
+Execution time: 0.011326 seconds	Execution time: 0.473587 seconds
+Execution time: 0.011321 seconds	Execution time: 0.467836 seconds
+Execution time: 0.011317 seconds	Execution time: 0.485876 seconds
+Execution time: 0.011344 seconds	Execution time: 0.473253 seconds
+Execution time: 0.011353 seconds	Execution time: 0.475268 seconds
+Execution time: 0.011339 seconds	Execution time: 0.477502 seconds
+Execution time: 0.012223 seconds	Execution time: 0.490583 seconds
+
+Using 4 OpenMP thread(s):
+
+Execution time: 0.009536 seconds	Execution time: 0.515967 seconds
+Execution time: 0.010349 seconds	Execution time: 0.486520 seconds
+Execution time: 0.009499 seconds	Execution time: 0.521820 seconds
+Execution time: 0.014883 seconds	Execution time: 0.615948 seconds
+Execution time: 0.009845 seconds	Execution time: 0.515194 seconds
+Execution time: 0.009527 seconds	Execution time: 0.496989 seconds
+Execution time: 0.014729 seconds	Execution time: 0.661688 seconds
+Execution time: 0.014354 seconds	Execution time: 0.601525 seconds
+Execution time: 0.014055 seconds	Execution time: 0.594802 seconds
+Execution time: 0.010747 seconds	Execution time: 0.508958 seconds
+
+Using 5 OpenMP thread(s):
+
+Execution time: 0.011526 seconds	Execution time: 0.641111 seconds
+Execution time: 0.014873 seconds	Execution time: 0.801885 seconds
+Execution time: 0.019007 seconds	Execution time: 0.806545 seconds
+Execution time: 0.011679 seconds	Execution time: 0.806828 seconds
+Execution time: 0.012809 seconds	Execution time: 0.719003 seconds
+Execution time: 0.011569 seconds	Execution time: 0.787918 seconds
+Execution time: 0.011299 seconds	Execution time: 0.783138 seconds
+Execution time: 0.011322 seconds	Execution time: 0.767268 seconds
+Execution time: 0.011245 seconds	Execution time: 0.765168 seconds
+Execution time: 0.011243 seconds	Execution time: 0.767366 seconds
+
+Using 6 OpenMP thread(s):
+
+Execution time: 0.010599 seconds	Execution time: 0.795437 seconds
+Execution time: 0.011954 seconds	Execution time: 0.830341 seconds
+Execution time: 0.010969 seconds	Execution time: 0.813329 seconds
+Execution time: 0.010915 seconds	Execution time: 0.814070 seconds
+Execution time: 0.010931 seconds	Execution time: 0.811811 seconds
+Execution time: 0.010980 seconds	Execution time: 0.820884 seconds
+Execution time: 0.011415 seconds	Execution time: 0.839425 seconds
+Execution time: 0.010893 seconds	Execution time: 0.825777 seconds
+Execution time: 0.010880 seconds	Execution time: 0.806342 seconds
+Execution time: 0.010609 seconds	Execution time: 0.666208 seconds
+
+Using 7 OpenMP thread(s):
+
+Execution time: 0.009658 seconds	Execution time: 0.879275 seconds
+Execution time: 0.009864 seconds	Execution time: 0.884355 seconds
+Execution time: 0.009861 seconds	Execution time: 1.191276 seconds
+Execution time: 0.009671 seconds	Execution time: 1.144776 seconds
+Execution time: 0.010687 seconds	Execution time: 0.921020 seconds
+Execution time: 0.009642 seconds	Execution time: 0.872473 seconds
+Execution time: 0.011122 seconds	Execution time: 0.911957 seconds
+Execution time: 0.010367 seconds	Execution time: 0.901267 seconds
+Execution time: 0.009588 seconds	Execution time: 0.875065 seconds
+Execution time: 0.010716 seconds	Execution time: 0.904753 seconds
+
+Using 8 OpenMP thread(s):
+
+Execution time: 0.008736 seconds	Execution time: 1.173392 seconds
+Execution time: 0.008982 seconds	Execution time: 1.299042 seconds
+Execution time: 0.008778 seconds	Execution time: 1.521874 seconds
+Execution time: 0.012361 seconds	Execution time: 1.352779 seconds
+Execution time: 0.008655 seconds	Execution time: 1.055386 seconds
+Execution time: 0.009515 seconds	Execution time: 1.188071 seconds
+Execution time: 0.008715 seconds	Execution time: 0.913374 seconds
+Execution time: 0.008800 seconds	Execution time: 1.243779 seconds
+Execution time: 0.008955 seconds	Execution time: 1.004599 seconds
+Execution time: 0.008776 seconds	Execution time: 0.917600 seconds
